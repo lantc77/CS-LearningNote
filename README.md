@@ -55,7 +55,7 @@ MIT 6.824：分布式系统 [课堂录制](), [课程主页](https://pdos.csail.
 2. https://www.youtube.com/watch?v=ueVnSz_lXEs&t=169s
 3. https://www.youtube.com/watch?v=5D67Qy1tPLY&t=46s
 
-计算机系统 MIT 6.033 讲义和作业
+- 计算机系统 MIT 6.033 讲义和作业
 
 - 算法
 普林斯顿大学算法课程 part1   part2
