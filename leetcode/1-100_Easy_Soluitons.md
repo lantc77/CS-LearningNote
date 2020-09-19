@@ -341,6 +341,40 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 **解题思路**
 
+**解法一：动态规划**
+
+用一个一维数组 dp [ i ] 表示以下标 i 结尾的子数组的元素的最大的和，
+也就是
+- 这个子数组最后一个元素是下边为 i 的元素，
+- 而且这个子数组是所有以 i 结尾的子数组中，和最大的。
+
+这样的话就有两种情况，
+
+- 如果 dp [ i - 1 ] < 0，那么 dp [ i ] = nums [ i ]。 （ 加上 dp[i-1]  反而使得 nums[i] 变小 ）
+- 如果 dp [ i - 1 ] >= 0，那么 dp [ i ] = dp [ i - 1 ] + nums [ i ]。
+
+Java
+```java
+public int maxSubArray(int[] nums) {
+    int n = nums.length;
+    int[] dp = new int[n];
+    int max = nums[0];
+    dp[0] = nums[0];
+    for (int i = 1; i < n; i++) {
+        //两种情况更新 dp[i]
+        if (dp[i - 1] < 0) {
+            dp[i] = nums[i];
+        } else {
+            dp[i] = dp[i - 1] + nums[i];
+        }
+        //更新 max
+        max = Math.max(max, dp[i]);
+    }
+    return max;
+}
+```
+
+**解法二： 滑动窗口**
 如果前面数的和preSum小于0，则从right处重新开始求和，并把left指针移动到right处。否则累加和。
 
 Java
