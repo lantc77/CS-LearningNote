@@ -1,7 +1,29 @@
 # CS-Learning Note
 由于非科班出身，所以一直想指定一份关于计算机学科系统的学习方案，由[斯坦福计算机系本科生人工智能方向课程资源](https://www.zybuluo.com/xiaozhenliu/note/665756)一文抛砖引玉，总结国外知名大学计算机相关培养计划和课程。
 
-# 计算机学科培养方案
+
+## 主要自学课程
+
+- 计算机网络 
+斯坦福 CS144 作业在这里
+补充学习：
+1. https://www.youtube.com/watch?v=UXMIxCYZu8o&t=72s
+2. https://www.youtube.com/watch?v=ueVnSz_lXEs&t=169s
+3. https://www.youtube.com/watch?v=5D67Qy1tPLY&t=46s
+
+- 计算机系统 MIT 6.033 讲义和作业 :information_desk_person:[我的学习记录](https://github.com/ericlan77/MIT6.824-DistributedSystems-Spring2020)
+
+- 算法
+普林斯顿大学算法课程 part1   part2
+
+- 编程原理
+UW CSE505: Concepts of Programming Languages
+
+- 数据库
+
+- 分布式系统
+
+# 附录：计算机学科培养方案
 
 - [Stanford Computer Science Degree Requirements](https://cs.stanford.edu/degrees/ug/index.shtml)
 - [MIT Computer Science Degree Requirements](http://student.mit.edu/catalog/m6a.html)
@@ -46,23 +68,3 @@ CS124/LING180: 从语言到信息（选修）最新课程<br>
 ### Distributed System Track 进阶课程（分布式系统方向）
 MIT 6.824：分布式系统 [课堂录制](), [课程主页](https://pdos.csail.mit.edu/6.824/)<br>
 
-## 主要自学课程
-
-- 计算机网络 
-斯坦福 CS144 作业在这里
-补充学习：
-1. https://www.youtube.com/watch?v=UXMIxCYZu8o&t=72s
-2. https://www.youtube.com/watch?v=ueVnSz_lXEs&t=169s
-3. https://www.youtube.com/watch?v=5D67Qy1tPLY&t=46s
-
-- 计算机系统 MIT 6.033 讲义和作业
-
-- 算法
-普林斯顿大学算法课程 part1   part2
-
-- 编程原理
-UW CSE505: Concepts of Programming Languages
-
-- 数据库
-
-- 分布式系统
