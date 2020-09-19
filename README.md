@@ -28,6 +28,19 @@ UW CSE505: Concepts of Programming Languages
 主要算法和知识点详见:information_desk_person:[InterviewNote](https://github.com/ericlan77/InterviewNote)<br>
 <br>:ok_woman: [Leetcode Note]()<br>
 <br>:raising_hand: [Cracking The Coding Interview]()<br>
+
+# 其他网络课程
+
+[Java Programming and Software Engineering Fundamentals Specialization] on Coursera<br>
+:white_check_mark:[我的证书](https://www.coursera.org/account/accomplishments/specialization/F92ZFFENCFWS)<br>
+:information_desk_person:[大作业 推荐系统](https://github.com/ericlan77/IMDB-Recommendation-System)
+
+[Object Oriented Java Programming: Data Structures and Beyond Specialization] on Coursera, [link](Object Oriented Java Programming: Data Structures and Beyond Specialization)
+:information_desk_person:[课后作业](https://github.com/ericlan77/Coursera/tree/master/UCSD%20Java%20Specialization)
+
+[Deep Learning Specialization]on Coursera, [link](https://www.coursera.org/specializations/deep-learning)<br>
+
+
 # 附录：计算机学科培养方案
 
 - [Stanford Computer Science Degree Requirements](https://cs.stanford.edu/degrees/ug/index.shtml)
