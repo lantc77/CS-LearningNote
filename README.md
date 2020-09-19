@@ -14,7 +14,7 @@
 - 计算机系统 MIT 6.033 讲义和作业 :information_desk_person:[我的学习记录](https://github.com/ericlan77/MIT6.824-DistributedSystems-Spring2020)
 
 - 算法
-普林斯顿大学算法课程 part1   part2
+普林斯顿大学算法课程 [part1](https://www.coursera.org/learn/algorithms-part1/home/welcome)   [part2](https://www.coursera.org/learn/algorithms-part2)
 
 - 编程原理
 UW CSE505: Concepts of Programming Languages
