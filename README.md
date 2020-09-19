@@ -26,7 +26,8 @@ UW CSE505: Concepts of Programming Languages
 # IT公司面试笔记
 
 详见:information_desk_person:[InterviewNote](https://github.com/ericlan77/InterviewNote)
-
+:ok_woman: [Leetcode Note]()
+:raising_hand: [Cracking The Coding Interview]()
 # 附录：计算机学科培养方案
 
 - [Stanford Computer Science Degree Requirements](https://cs.stanford.edu/degrees/ug/index.shtml)
