@@ -86,3 +86,5 @@ CS124/LING180: 从语言到信息（选修）最新课程<br>
 ### Distributed System Track 进阶课程（分布式系统方向）
 MIT 6.824：分布式系统 [课堂录制](), [课程主页](https://pdos.csail.mit.edu/6.824/)<br>
 
+一些国外高校公开课总结可以参考这个专栏
+[北美名校CS课程整理系列](https://zhuanlan.zhihu.com/p/85890799)
