@@ -25,11 +25,18 @@ UW CSE505: Concepts of Programming Languages
 
 # IT公司面试笔记
 
-主要算法和知识点详见  
-
-<br>:information_desk_person:[InterviewNote](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote)<br>
+主要算法和知识点详见
+<br>:information_desk_person:[InterviewNote](https://github.com/ericlan77/CS-LearningNote/InterviewNote)<br>
 <br>:ok_woman: [Leetcode Note](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/LeetCode)<br>
 <br>:raising_hand: [Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/Craking%20The%20Coding%20Interview)<br>
+
+# 计算机学科基础知识
+
+<br>[Basic Knowledge]()<br>
+<br>[Data Structure]()<br>
+<br>[Database]()<br>
+<br>[Computer Networks]()<br>
+<br>[Operating System]()<br>
 
 # 其他网络课程
 
