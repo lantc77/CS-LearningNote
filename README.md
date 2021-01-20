@@ -32,11 +32,11 @@ UW CSE505: Concepts of Programming Languages
 
 # 计算机学科基础知识
 
-:information_desk_person:<br>[Basic Knowledge](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge)<br>
-:information_desk_person:<br>[Data Structure](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/DataStructure)<br>
-:information_desk_person:<br>[Database](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/Database)<br>
-:information_desk_person:<br>[Computer Networks]https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/ComputerNetworks()<br>
-:information_desk_person:<br>[Operating System](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/OperatingSystem)<br>
+<br>:information_desk_person:[Basic Knowledge](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge)<br>
+<br>:information_desk_person:[Data Structure](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/DataStructure)<br>
+<br>:information_desk_person:[Database](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/Database)<br>
+<br>:information_desk_person:[Computer Networks](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/ComputerNetworks)<br>
+<br>:information_desk_person:[Operating System](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/OperatingSystem)<br>
 
 # 其他网络课程
 
