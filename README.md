@@ -32,11 +32,11 @@ UW CSE505: Concepts of Programming Languages
 
 # 计算机学科基础知识
 
-<br>[Basic Knowledge]()<br>
-<br>[Data Structure]()<br>
-<br>[Database]()<br>
-<br>[Computer Networks]()<br>
-<br>[Operating System]()<br>
+:information_desk_person:<br>[Basic Knowledge](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge)<br>
+:information_desk_person:<br>[Data Structure](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/DataStructure)<br>
+:information_desk_person:<br>[Database](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/Database)<br>
+:information_desk_person:<br>[Computer Networks]https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/ComputerNetworks()<br>
+:information_desk_person:<br>[Operating System](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/OperatingSystem)<br>
 
 # 其他网络课程
 
