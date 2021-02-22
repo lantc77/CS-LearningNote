@@ -1,10 +1,10 @@
 # 题解
 
-:ok_woman:[LeetCode](https://github.com/ericlan77/CS-LearningNote/tree/master/leetcode)  
+:ok_woman:[LeetCode](https://github.com/ericlan77/CS-LearningNote/InterviewNote/tree/master/leetcode)  
 
-:cop:[Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/tree/master/Craking%20The%20Coding%20Interview)  
+:cop:[Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/InterviewNote/tree/master/Craking%20The%20Coding%20Interview)  
 
-:hear_no_evil:[笔试题记录](https://github.com/ericlan77/CS-LearningNote/tree/master/Online%20Judge%20Exams)
+:hear_no_evil:[笔试题记录](https://github.com/ericlan77/CS-LearningNote/InterviewNote/tree/master/Online%20Judge%20Exams)
 
 **以下是面试知识点总结:feet:**
 # 数据结构与算法
@@ -61,4 +61,4 @@
 - Lambda表达式
 
 # 数据库
-- [SQL基础操作](https://github.com/ericlan77/CS-LearningNote/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
+- [SQL基础操作](https://github.com/ericlan77/CS-LearningNote/InterviewNote/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
