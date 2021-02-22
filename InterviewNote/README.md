@@ -1,6 +1,6 @@
 # 题解
 
-:ok_woman:[LeetCode](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/Leetcode)  
+:ok_woman:[LeetCode](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/LeetCode)  
 
 :cop:[Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/Craking%20The%20Coding%20Interview)  
 
