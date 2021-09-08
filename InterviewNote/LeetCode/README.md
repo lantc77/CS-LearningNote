@@ -1,5 +1,6 @@
-目录暂时写道1-100 Easy和medium题<br>
-101-200 Easy和medium题 见[link](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/101-200_Easy_Medum_Solutions.md)
+目录仅包括1-100 Easy和medium题<br>
+101-200 Easy和medium题见[link](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/101-200_Easy_Medum_Solutions.md)（懒得做目录了）
+
 # Easy
 | 题号 | 备注 |
 -----|-----
