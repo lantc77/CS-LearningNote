@@ -3,7 +3,7 @@
 # Easy
 | 题号 | 备注 |
 -----|-----
-[1. Two Sum](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/1-100_Easy_Soluitons.md#1-two-sum-easy) | easy | 
+[1. Two Sum](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/1-100_Easy_Soluitons.md#1-two-sum-easy) |  | 
 [7. Reverse Integer](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/1-100_Easy_Soluitons.md#7-reverse-integer-easy) | 
 [9. Palindrome Number](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/1-100_Easy_Soluitons.md#9-palindrome-number-easy) | 
 [13. Roman to Integer](https://github.com/ericlan77/CS-LearningNote/blob/master/InterviewNote/LeetCode/Solutions/1-100_Easy_Soluitons.md#13-roman-to-integer-easy) | 
