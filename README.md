@@ -3,7 +3,6 @@
 
 
 ## 主要自学课程
-
 - 计算机网络 
 斯坦福 CS144 作业在这里
 补充学习：
@@ -24,22 +23,19 @@ UW CSE505: Concepts of Programming Languages
 - 分布式系统
 
 # IT公司面试笔记
-
-<br>主要算法和知识点详见<br>
+主要算法和知识点详见<br>
 <br>:information_desk_person: [InterviewNote](https://github.com/ericlan77/CS-LearningNote/InterviewNote)<br>
 <br>:ok_woman: [Leetcode Note](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/LeetCode)<br>
 <br>:raising_hand: [Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/Craking%20The%20Coding%20Interview)<br>
 
 # 计算机学科基础知识
-
-<br>:information_desk_person:[Basic Knowledge](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge)<br>
+:information_desk_person:[Basic Knowledge](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge)<br>
 <br>:information_desk_person:[Data Structure](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/DataStructure)<br>
 <br>:information_desk_person:[Database](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/Database)<br>
 <br>:information_desk_person:[Computer Networks](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/ComputerNetworks)<br>
 <br>:information_desk_person:[Operating System](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/OperatingSystem)<br>
 
 # 其他网络课程
-
 Java Programming and Software Engineering Fundamentals Specialization on Coursera<br>
 :white_check_mark:[我的证书](https://www.coursera.org/account/accomplishments/specialization/F92ZFFENCFWS)<br>
 :information_desk_person:[大作业 推荐系统](https://github.com/ericlan77/IMDB-Recommendation-System)
@@ -51,7 +47,6 @@ Java Programming and Software Engineering Fundamentals Specialization on Courser
 
 
 # 附录：计算机学科培养方案
-
 - [Stanford Computer Science Degree Requirements](https://cs.stanford.edu/degrees/ug/index.shtml)
 - [MIT Computer Science Degree Requirements](http://student.mit.edu/catalog/m6a.html)
 - [Google Tech Guide](https://techdevguide.withgoogle.com/)
