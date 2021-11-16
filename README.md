@@ -37,8 +37,8 @@ UW CSE505: Concepts of Programming Languages
 
 # 其他网络课程
 Java Programming and Software Engineering Fundamentals Specialization on Coursera<br>
-:white_check_mark:[我的证书](https://www.coursera.org/account/accomplishments/specialization/F92ZFFENCFWS)<br>
-:information_desk_person:[大作业 推荐系统](https://github.com/ericlan77/IMDB-Recommendation-System)
+<br>:white_check_mark:[我的证书](https://www.coursera.org/account/accomplishments/specialization/F92ZFFENCFWS)<br>
+<br>:information_desk_person:[大作业 推荐系统](https://github.com/ericlan77/IMDB-Recommendation-System)<br>
 
 [Object Oriented Java Programming: Data Structures and Beyond Specialization](https://www.coursera.org/specializations/java-object-oriented) on Coursera
 :information_desk_person:[课后作业](https://github.com/ericlan77/Coursera/tree/master/UCSD%20Java%20Specialization)
