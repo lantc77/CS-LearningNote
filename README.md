@@ -24,24 +24,24 @@ UW CSE505: Concepts of Programming Languages
 
 # IT公司面试笔记
 主要算法和知识点详见<br>
-<br>:information_desk_person: [InterviewNote](https://github.com/ericlan77/CS-LearningNote/InterviewNote)<br>
-<br>:ok_woman: [Leetcode Note](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/LeetCode)<br>
-<br>:raising_hand: [Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/Craking%20The%20Coding%20Interview)<br>
+:information_desk_person: [InterviewNote](https://github.com/ericlan77/CS-LearningNote/InterviewNote)<br>
+:ok_woman: [Leetcode Note](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/LeetCode)<br>
+:raising_hand: [Cracking The Coding Interview](https://github.com/ericlan77/CS-LearningNote/tree/master/InterviewNote/Craking%20The%20Coding%20Interview)<br>
 
 # 计算机学科基础知识
 :information_desk_person:[Basic Knowledge](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge)<br>
-<br>:information_desk_person:[Data Structure](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/DataStructure)<br>
-<br>:information_desk_person:[Database](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/Database)<br>
-<br>:information_desk_person:[Computer Networks](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/ComputerNetworks)<br>
-<br>:information_desk_person:[Operating System](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/OperatingSystem)<br>
+:information_desk_person:[Data Structure](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/DataStructure)<br>
+:information_desk_person:[Database](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/Database)<br>
+:information_desk_person:[Computer Networks](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/ComputerNetworks)<br>
+:information_desk_person:[Operating System](https://github.com/ericlan77/CS-LearningNote/tree/master/BasicKnowledge/OperatingSystem)<br>
 
 # 其他网络课程
 Java Programming and Software Engineering Fundamentals Specialization on Coursera<br>
-<br>:white_check_mark:[我的证书](https://www.coursera.org/account/accomplishments/specialization/F92ZFFENCFWS)<br>
-<br>:information_desk_person:[大作业 推荐系统](https://github.com/ericlan77/IMDB-Recommendation-System)<br>
+:white_check_mark:[我的证书](https://www.coursera.org/account/accomplishments/specialization/F92ZFFENCFWS)<br>
+:information_desk_person:[大作业 推荐系统](https://github.com/ericlan77/IMDB-Recommendation-System)<br>
 
 [Object Oriented Java Programming: Data Structures and Beyond Specialization](https://www.coursera.org/specializations/java-object-oriented) on Coursera
-:information_desk_person:[课后作业](https://github.com/ericlan77/Coursera/tree/master/UCSD%20Java%20Specialization)
+:information_desk_person:[课后作业](https://github.com/ericlan77/Coursera/tree/master/UCSD%20Java%20Specialization)<br>
 
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Cousera<br>
 
