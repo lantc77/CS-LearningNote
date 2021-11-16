@@ -35,7 +35,7 @@ But the following [1,2,2,null,3,null,3] is not:
 3. 当根节点相等且 ```isMirror(left.left, right.right) && isMirror(left.right, right.left) ```为true 时，返回true
 
 需要创建一个helper函数 check()
-````java
+```java
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         return isMirror(root, root);
